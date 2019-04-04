@@ -3,17 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joaopaulomcc.com/posts/2019.04.04-flying-circus/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joaopaulomcc.com/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joaopaulomcc.com/all/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joaopaulomcc.com/posts/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joaopaulomcc.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joaopaulomcc.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joaopaulomcc.com/</loc>
     <priority>0</priority>
   </url>
   
