@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hey on joaopaulomcc</title>
-    <link>http://example.org/tags/hey/</link>
+    <link>https://joaopaulomcc.com/tags/hey/</link>
     <description>Recent content in hey on joaopaulomcc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Feb 2021 09:48:25 -0300</lastBuildDate><atom:link href="http://example.org/tags/hey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 09:48:25 -0300</lastBuildDate><atom:link href="https://joaopaulomcc.com/tags/hey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 4</title>
-      <link>http://example.org/blog/test4/</link>
+      <link>https://joaopaulomcc.com/blog/test4/</link>
       <pubDate>Sat, 06 Feb 2021 09:48:25 -0300</pubDate>
       
-      <guid>http://example.org/blog/test4/</guid>
+      <guid>https://joaopaulomcc.com/blog/test4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
     </item>
     
     <item>
       <title>Post 2</title>
-      <link>http://example.org/blog/test2/</link>
+      <link>https://joaopaulomcc.com/blog/test2/</link>
       <pubDate>Tue, 02 Feb 2021 09:48:25 -0300</pubDate>
       
-      <guid>http://example.org/blog/test2/</guid>
+      <guid>https://joaopaulomcc.com/blog/test2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
     </item>
     
     <item>
       <title>Post 1</title>
-      <link>http://example.org/blog/test1/</link>
+      <link>https://joaopaulomcc.com/blog/test1/</link>
       <pubDate>Mon, 01 Feb 2021 09:48:25 -0300</pubDate>
       
-      <guid>http://example.org/blog/test1/</guid>
+      <guid>https://joaopaulomcc.com/blog/test1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
     </item>
     

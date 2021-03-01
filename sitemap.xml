@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/bla/</loc>
+    <loc>https://joaopaulomcc.com/tags/bla/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://joaopaulomcc.com/blog/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/five/</loc>
+    <loc>https://joaopaulomcc.com/tags/five/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://joaopaulomcc.com/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test6/</loc>
+    <loc>https://joaopaulomcc.com/blog/test6/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://joaopaulomcc.com/tags/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/two/</loc>
+    <loc>https://joaopaulomcc.com/tags/two/</loc>
     <lastmod>2021-03-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test5/</loc>
+    <loc>https://joaopaulomcc.com/blog/test5/</loc>
     <lastmod>2021-02-20T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hey/</loc>
+    <loc>https://joaopaulomcc.com/tags/hey/</loc>
     <lastmod>2021-02-06T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test4/</loc>
+    <loc>https://joaopaulomcc.com/blog/test4/</loc>
     <lastmod>2021-02-06T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test3/</loc>
+    <loc>https://joaopaulomcc.com/blog/test3/</loc>
     <lastmod>2021-02-04T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test2/</loc>
+    <loc>https://joaopaulomcc.com/blog/test2/</loc>
     <lastmod>2021-02-02T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/test1/</loc>
+    <loc>https://joaopaulomcc.com/blog/test1/</loc>
     <lastmod>2021-02-01T09:48:25-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://joaopaulomcc.com/categories/</loc>
   </url>
 </urlset>
