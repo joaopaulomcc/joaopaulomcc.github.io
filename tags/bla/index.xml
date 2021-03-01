@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bla on joaopaulomcc</title>
+    <link>http://example.org/tags/bla/</link>
+    <description>Recent content in bla on joaopaulomcc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 09:48:25 -0300</lastBuildDate><atom:link href="http://example.org/tags/bla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 6</title>
+      <link>http://example.org/blog/test6/</link>
+      <pubDate>Mon, 01 Mar 2021 09:48:25 -0300</pubDate>
+      
+      <guid>http://example.org/blog/test6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
+    </item>
+    
+    <item>
+      <title>Post 5</title>
+      <link>http://example.org/blog/test5/</link>
+      <pubDate>Sat, 20 Feb 2021 09:48:25 -0300</pubDate>
+      
+      <guid>http://example.org/blog/test5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
+    </item>
+    
+    <item>
+      <title>Post 4</title>
+      <link>http://example.org/blog/test4/</link>
+      <pubDate>Sat, 06 Feb 2021 09:48:25 -0300</pubDate>
+      
+      <guid>http://example.org/blog/test4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
+    </item>
+    
+    <item>
+      <title>Post 3</title>
+      <link>http://example.org/blog/test3/</link>
+      <pubDate>Thu, 04 Feb 2021 09:48:25 -0300</pubDate>
+      
+      <guid>http://example.org/blog/test3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor fringilla nulla, vitae pulvinar lacus bibendum et. Pellentesque efficitur placerat lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam vehicula, risus a semper aliquet, arcu diam varius odio, et condimentum metus dolor ut leo. Cras sagittis cursus nisi, eu malesuada sapien suscipit eget. Vestibulum dignissim sollicitudin metus quis mattis. Fusce molestie nisi quis nisl blandit, et tincidunt urna euismod.</description>
+    </item>
+    
+  </channel>
+</rss>
